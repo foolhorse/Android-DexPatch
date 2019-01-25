@@ -1,0 +1,2 @@
+me/machao/hotfix/sample/App.class
+me/machao/hotfix/sample/BaseActivity.class
